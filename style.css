@@ -52,6 +52,9 @@ section{
     background: url(image/exp-bg.png) no-repeat;
     background-position: left;
 }
+.experience-area h2{
+    margin-left: 65px;
+}
 #full-stack{
     border-left: 7px solid;
     border-image: linear-gradient(rgb(252, 2, 252), rgb(48, 1, 48));
